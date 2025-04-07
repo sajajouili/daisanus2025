@@ -23,14 +23,14 @@ img {
 
 /* Estilo para o título h1 */
 h1 {
-    color: rgb(20, 164, 247);
+    color: rgb(255, 166, 1);
     margin-top: 20px; /* Espaço superior */
     font-size: 32px; /* Define o tamanho da fonte */
 }
 
 /* Estilo para o subtítulo h2 */
 h2 {
-    color: rgba(55, 194, 85, 0.966);
+    color: rgba(255, 236, 66, 0.966);
     margin-top: 10px; /* Espaço superior */
     font-size: 24px; /* Define o tamanho da fonte */
 }
