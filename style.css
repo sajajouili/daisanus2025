@@ -7,7 +7,7 @@ body {
     height: 100vh; /* Faz o body ocupar 100% da altura da tela */
     margin: 0; /* Remove a margem padrão */
     text-align: center; /* Centraliza os textos */
-    background-color: lightgray; /* Cor de fundo opcional */
+    background-color: rgb(255, 134, 195); /* Cor de fundo opcional */
 }
 
 /* Estilo para a div que contém a imagem */
@@ -23,14 +23,14 @@ img {
 
 /* Estilo para o título h1 */
 h1 {
-    color: rgb(20, 164, 247);
+    color: rgb(188, 36, 235);
     margin-top: 20px; /* Espaço superior */
     font-size: 32px; /* Define o tamanho da fonte */
 }
 
 /* Estilo para o subtítulo h2 */
 h2 {
-    color: rgba(55, 194, 85, 0.966);
+    color: rgba(8, 150, 233, 0.966);
     margin-top: 10px; /* Espaço superior */
     font-size: 24px; /* Define o tamanho da fonte */
 }
